@@ -1,11 +1,7 @@
-# import something.java
-class ConsoleApp
+public class ConsoleApp
 {
-public ConsoleApp()
-{}
-static void main(string[] args)
-{
-  cout << "Hello World!" << endl;
-  exit;
+	public static void main(String[] args)
+	{
+  		System.out.println("Hello World!");
+ 	}
 }
-};
